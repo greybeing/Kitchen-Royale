@@ -1,0 +1,23 @@
+#title {
+  position:relative;
+  left:250px;
+  }
+#navbar {
+  float: left
+}
+.main_img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#navbar {
+  
+  display: inline;
+  
+}
+.navbar {
+ display: block;
+  padding: 8px;
+  background-color: #dddddd; 
+}
